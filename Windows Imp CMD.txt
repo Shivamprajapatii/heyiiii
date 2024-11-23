@@ -1,5 +1,4 @@
 Laptop Password 
-Shivam@@3090
 
 
 1. Connect With MySQL using CMD -
