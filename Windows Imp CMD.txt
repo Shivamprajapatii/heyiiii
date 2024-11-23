@@ -5,7 +5,7 @@ Shivam@@3090
 1. Connect With MySQL using CMD -
 
 >> MySQL -u -p 
->> Shivam@9621
+>>
 
 2. Connect Mongos DB database -
 
